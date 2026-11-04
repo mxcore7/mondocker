@@ -1,0 +1,1 @@
+vless://6f6d52f0-b245-4c42-b939-32ee389e5515@192.179.18.100:443?encryption=none&security=tls&sni=crashlyticsreports-pa.googleapis.com&type=ws&host=marvel-ech.ai.studio&path=%2F%40Marvel-Tech#@Marvel-Tech
